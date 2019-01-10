@@ -43,6 +43,5 @@ public class Aufgabe4 {
             System.err.println("Nicht auf Nein geklickt");
             ex.printStackTrace();
         }
-
     }
 }
